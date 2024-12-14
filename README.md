@@ -1,6 +1,8 @@
 # I-Care _ Smart Doctor
 Graduation Project - Comprehensive Medical System
 
+[media/Picsart_23-10-20_06-03-49-430.png]
+
 Easy Healthcare for Anyone Anytime!
 
 ## OverView
