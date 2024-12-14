@@ -1,4 +1,4 @@
-# I-Care _ Smart Doctor
+# I Care - Smart Doctor
 Graduation Project - Comprehensive Medical System
 
 ![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
