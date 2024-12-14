@@ -3,6 +3,7 @@ Graduation Project - Comprehensive Medical System
 
 Easy Healthcare for Anyone Anytime!
 
+## OverView
 As a team leader i have distributed the tasks on the team members, i have decided to work with Agile methodology so i was making a meeting each one or two weeks with the team members to presenting the work done
 i was responsible for the AI modules which are:
 
@@ -25,3 +26,15 @@ Creating the Software Requirements Specification SRS and the proposal and give t
 Collecting the other' work and combining them, making documentation and the presentation
 
 Making algorithm for MBTI personality analysis test
+
+## Introduction
+intro
+
+## Implementation
+implementation architictures
+
+## Results
+accuracy
+
+## References
+datasets
