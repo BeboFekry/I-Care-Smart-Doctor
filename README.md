@@ -191,9 +191,7 @@ Models Accuracy Visualization
 
 ---
 
-**Some Models Training History**
-
-Models Training History Visualization
+**Some Models Training History Visualization**
 
 Chatbot Training History
 
@@ -209,13 +207,13 @@ CT Model Training History
 
 ---
 
-**Some Models Heatmap**
-
-Models Heatmap Visualization
+**Some Models Heatmap Visualization**
 
 Breast Cancer Evaluation
 
 ![accuracy](media/breast_cancer_evaluation.png)
+
+
 
 CT Scan Heatmap
 
