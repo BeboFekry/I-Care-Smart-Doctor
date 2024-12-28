@@ -137,6 +137,14 @@ Can detect body diseases from CT scans and diagnosis if there is 'Cyst', 'Stones
 
 ---
 
+**Complete Blood Count Test (CBC) Medical Test**
+
+![Scan Work Flow](media/Complete-Blood-Count.jpg)
+
+Using Optical Character Recognition OCR technique to get the data from the CBC image then pass it to a Large Language Model LLM to evaluate overall health and diagnose conditions like anemia, infections, clotting disorders, and blood cancers by analyzing red and white blood cells, hemoglobin, hematocrit, and platelets.
+
+---
+
 **ECG - Heart Diseases Detection**
 
 ![Scan Work Flow](media/Infinx-Blog-4-Ways-AI-Can-Help-Cardiology-Practices-Adapt-in-2020.jpg)
