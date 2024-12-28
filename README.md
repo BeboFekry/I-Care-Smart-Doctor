@@ -201,7 +201,7 @@ Breast Cancer Detection Training History
 ![accuracy2](media/breast_cancer_detection_training_history.png)
 
 CT Model Training History
-![accuracy2](media/![accuracy2](media/breast_cancer_detection_training_history.png))
+![accuracy2](media/breast_cancer_detection_training_history.png)
 
 ---
 
@@ -216,7 +216,7 @@ Breast Cancer Detection Training History
 ![accuracy2](media/breast_cancer_detection_training_history.png)
 
 CT Model Training History
-![accuracy2](media/![accuracy2](media/breast_cancer_detection_training_history.png))
+![accuracy2](media/breast_cancer_detection_training_history.png)
 
 ---
 
