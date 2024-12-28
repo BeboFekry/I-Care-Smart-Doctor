@@ -1,4 +1,4 @@
-# I Care - Smart Doctor
+# **I Care - Smart Doctor**
 Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
 
 ![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
@@ -13,7 +13,7 @@ i was responsible for the AI modules which are:
 
 ### My part in the project consists of three main modules:
 
-**Module 1:** An AI based smart chatbot called "Caroline" talking to the patient 
+* **Module 1:** An AI based smart chatbot called "Caroline" talking to the patient 
 and taking its disease symptoms by text or voice messages, then diagnosing the disease and 
 recommend making some tests or medical imaging scans to do as x-ray, MRI, Complete Blood Count CBC, ... in addition, given 
 information about the predicted disease as an overview, symptoms, and 
@@ -21,7 +21,7 @@ treatments.
 
 It can predict 30 diseases such as (Breast Cancer, Influenza, Covid 19, Stroke, ...) 
 
-**Module 2:** A sequence of AI Computer Vision models for scanning medical 
+* **Module 2:** A sequence of AI Computer Vision models for scanning medical 
 imaging scans and medical tests it can scan (X-ray, MRI, CT, OCT, CBC, or Food images), 
 detect the image type (Image Recognition), if it is medical imaging image, 
 applying anatomical recognition, disease evaluation, disease diagnosis, and also in tumor or bone fraction cases 
@@ -33,9 +33,9 @@ It can read the Complete Blood Count (CBC) test images and evaluate overall heal
 
 It also can recognize 101 food types from images and shows the approximate number of calories per gram.
 
-**Module 3:** An ensemble Machine Learning (Random Forest) Model for scan Electrocardiography ECG and diagnosis the heart diseases.
+* **Module 3:** An ensemble Machine Learning (Random Forest) Model for scan Electrocardiography ECG and diagnosis the heart diseases.
 
-In addition of making algorithm for MBTI personality analysis test.
+* In addition of making algorithm for MBTI personality analysis test.
 
 ## Implementation Methodology
 Using transfer learning to get a pre-trained models on a huge dataset image net and customize their input layer shape to be suitable with the images and customize the output layer structure and activation function as need, so the models have an initial value for the parameters then they train faster and gives better accuracy. 
@@ -46,6 +46,8 @@ The AI module is designed in different parts. There are a Natural Language Proce
 
 Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall information
 ![Models Table](media/models_table.jpg)
+
+---
 
 **AI Scan Models Work Flow**
 
