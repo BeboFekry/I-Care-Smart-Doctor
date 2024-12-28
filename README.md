@@ -22,11 +22,7 @@ treatments. It can predict 30 diseases such as (Breast Cancer, Influenza, Covid 
 * **Module 2:** A sequence of AI Computer Vision models for scanning medical 
 imaging scans and medical tests it can scan (X-ray, MRI, CT, OCT, CBC, or Food images), 
 detect the image type (Image Recognition), if it is medical imaging image, 
-applying anatomical recognition, disease evaluation, disease diagnosis, and also in tumor or bone fraction cases. It can locate the tumor or the fraction using image segmentation. It can predict 25 disease types such as (Bone Fracture, Brain Tumor, Covid 19, Breast Cancer, ...)
-
-         It can read the Complete Blood Count (CBC) test images and evaluate overall health and diagnose conditions like anemia, infections, clotting disorders, and blood cancers by analyzing red and white blood cells, hemoglobin, hematocrit, and platelets.
-
-It also can recognize 101 food types from images and shows the approximate number of calories per gram.
+applying anatomical recognition, disease evaluation, disease diagnosis, and also in tumor or bone fraction cases. It can locate the tumor or the fraction using image segmentation. It can predict 25 disease types such as (Bone Fracture, Brain Tumor, Covid 19, Breast Cancer, ...). It can read the Complete Blood Count (CBC) test images and evaluate overall health and diagnose conditions like anemia, infections, clotting disorders, and blood cancers by analyzing red and white blood cells, hemoglobin, hematocrit, and platelets. It also can recognize 101 food types from images and shows the approximate number of calories per gram.
 
 * **Module 3:** An ensemble Machine Learning (Random Forest) Model for scan Electrocardiography ECG and diagnosis the heart diseases.
 
@@ -40,6 +36,7 @@ The AI module is designed in different parts. There are a Natural Language Proce
 **AI Model Table**
 
 Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall information
+
 ![Models Table](media/models_table.jpg)
 
 ---
@@ -47,6 +44,7 @@ Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall
 **AI Scan Models Work Flow**
 
 Sequence for the Image Scan Computer Vision Models
+
 ![Scan Work Flow](media/Final_ai.drawio.svg)
 
 ---
