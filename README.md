@@ -43,16 +43,17 @@ Using transfer learning to get a pre-trained models on a huge dataset image net 
 The AI module is designed in different parts. There are a Natural Language Processing NLP, Deep Learning Computer Vision Classification, Image Segmentation, Optical Character Recognition OCR, Large Language Model LLM, Speech Recognition, and Machine Learning Models all are combined together to mimic a doctor for all specialties.
 
 **AI Model Table**
+
 Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall information
 ![Models Table](media/models_table.jpg)
 
 **AI Scan Models Work Flow**
+
 Sequence for the Image Scan Computer Vision Models
 ![Scan Work Flow](media/Final_ai.drawio.svg)
 
-**AI Scan Models Work Flow**
-Sequence for the Image Scan Computer Vision Models
-![Logo Design](media/Final_ai.drawio.svg)
+---
+
 
 ## Results
 accuracy
