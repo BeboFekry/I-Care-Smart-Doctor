@@ -186,6 +186,7 @@ Models Accuracy Visualization
 
 ![accuracy](media/Models_Accuracy.png)
 
+
 ![accuracy2](media/model_accuracy_horizontal.png)
 
 ---
@@ -195,12 +196,15 @@ Models Accuracy Visualization
 Models Training History Visualization
 
 Chatbot Training History
+
 ![accuracy](media/chatbot_training_history.png)
 
 Breast Cancer Detection Training History
+
 ![accuracy2](media/breast_cancer_detection_training_history.png)
 
 CT Model Training History
+
 ![accuracy2](media/CT_model_training_history.png)
 
 ---
@@ -210,15 +214,19 @@ CT Model Training History
 Models Heatmap Visualization
 
 Breast Cancer Evaluation
+
 ![accuracy](media/breast_cancer_evaluation.png)
 
 CT Scan Heatmap
+
 ![accuracy2](media/CT_Scan_heatmap.png)
 
 Medical Imaging Scan Type Detection Heatmap
+
 ![accuracy2](media/imaging_scan_type_heatmap.png)
 
 Chatbot Heatmap
+
 ![accuracy2](media/chatbot_heatmap.png)
 
 ---
