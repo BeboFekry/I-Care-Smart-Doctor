@@ -4,7 +4,7 @@ Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
 ![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
 (Graduation Project)
 
-## OverView
+## 1. OverView
 
 Test Run Video
 
@@ -28,7 +28,7 @@ applying anatomical recognition, disease evaluation, disease diagnosis, and also
 
 * In addition of making algorithm for MBTI personality analysis test.
 
-## Implementation Methodology
+## 2. Implementation Methodology
 Using transfer learning to get a pre-trained models on a huge dataset image net and customize their input layer shape to be suitable with the images and customize the output layer structure and activation function as need, so the models have an initial value for the parameters then they train faster and gives better accuracy. 
 
 The AI module is designed in different parts. There are a Natural Language Processing NLP, Deep Learning Computer Vision Classification, Image Segmentation, Optical Character Recognition OCR, Large Language Model LLM, Speech Recognition, and Machine Learning Models all are combined together to mimic a doctor for all specialties.
@@ -170,7 +170,7 @@ Can detect food types from images and identify their approximation number of cal
 ---
 
 
-## Results
+## 3. Results
 
 **AI Models Table**
 
@@ -221,5 +221,5 @@ CT Model Training History
 ---
 
 
-## References
+## 4. References
 datasets
