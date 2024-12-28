@@ -1,9 +1,8 @@
 # I Care - Smart Doctor
-Graduation Project - Comprehensive Medical System
+Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
 
 ![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
-
-Easy Healthcare for Anyone Anytime!
+(Graduation Project)
 
 ## OverView
 As a team leader i have distributed the tasks on the team members, i have decided to work with Agile methodology so i was making a meeting each one or two weeks with the team members to presenting the work done
