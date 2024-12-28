@@ -33,7 +33,7 @@ Using transfer learning to get a pre-trained models on a huge dataset image net 
 
 The AI module is designed in different parts. There are a Natural Language Processing NLP, Deep Learning Computer Vision Classification, Image Segmentation, Optical Character Recognition OCR, Large Language Model LLM, Speech Recognition, and Machine Learning Models all are combined together to mimic a doctor for all specialties.
 
-**AI Model Table**
+**AI Models Table**
 
 Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall information
 
@@ -49,9 +49,61 @@ Sequence for the Image Scan Computer Vision Models
 
 ---
 
+**ChatBot Diseases Detection**
+
+![Scan Work Flow](media/Final_ai.drawio.svg)
+
 
 ## Results
-accuracy
+
+**AI Models Table**
+
+Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall information
+
+![Models Table](media/models_table.jpg)
+
+---
+
+**Models Accuracy**
+
+Models Accuracy Visualization
+
+![accuracy](media/Models_Accuracy.png)
+
+![accuracy2](media/model_accuracy_horizontal.png)
+
+---
+
+**Some Models Training History**
+
+Models Training History Visualization
+
+Chatbot Training History
+![accuracy](media/chatbot_training_history.png)
+
+Breast Cancer Detection Training History
+![accuracy2](media/breast_cancer_detection_training_history.png)
+
+CT Model Training History
+![accuracy2](media/![accuracy2](media/breast_cancer_detection_training_history.png))
+
+---
+
+**Some Models Heatmap**
+
+Models Heatmap Visualization
+
+Chatbot Training History
+![accuracy](media/chatbot_training_history.png)
+
+Breast Cancer Detection Training History
+![accuracy2](media/breast_cancer_detection_training_history.png)
+
+CT Model Training History
+![accuracy2](media/![accuracy2](media/breast_cancer_detection_training_history.png))
+
+---
+
 
 ## References
 datasets
