@@ -51,7 +51,115 @@ Sequence for the Image Scan Computer Vision Models
 
 **ChatBot Diseases Detection**
 
-![Scan Work Flow](media/Final_ai.drawio.svg)
+![Scan Work Flow](media/i_care_logo.png)
+
+AI based smart chatbot called "Caroline" talking to the patient and taking its disease symptoms by text or voice messages, then diagnosing the disease and recommend making some tests or medical imaging scans to do as x-ray, MRI, Complete Blood Count CBC, ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
+
+---
+
+**Object Recognition From Iamges**
+
+![Scan Work Flow](media/7-Best-Image-Recognition-APIs-e1587080882739.jpg)
+
+Identify the medical imaging scan, medical test report and food from images
+
+---
+
+**Medical Imaging Scan Type Detection**
+
+![Scan Work Flow](media/158096096_m.jpeg)
+
+Identifying the medical imaging scan type of 4 main types which are 'Electromagnetic Variations - Xray', 'Magnetic Resonance Imaging - MRI', 'Computerized Tomography - CT', or 'Optical Coherence Tomography - OCT'
+
+---
+
+**Anatomical Recognition From Xray Scan**
+
+![Scan Work Flow](media/various-x-ray-images-of-human-body-parts-vector.jpg)
+
+Applying anatomical recognition on all imaging types to identify the body parts
+
+---
+
+**Brain Tumor Detection From MRI Scan**
+
+![Scan Work Flow](media/brain.jpg)
+
+Can to detect brain tumor from MRI and diagnosis their types as 'Glioma_tumor', 'Meningioma_tumor', and 'Pituitary_tumor'
+
+---
+
+**Bone Fracture Detection From Xray Scan**
+
+![Scan Work Flow](media/Fractures.jpeg)
+
+Can to detect bones fraction from x-rays and diagnosis their 10 types as 'Avulsion fracture', 'Comminuted fracture', 'Compression-Crush fracture', 'Fracture Dislocation', 'Greenstick fracture', 'Hairline Fracture', 'Impacted fracture', 'Intra-articular fracture', 'Longitudinal fracture', 'Oblique fracture', 'Pathological fracture', and 'Spiral Fracture'
+
+---
+
+**Breast Cancer Detection From MRI Scan**
+
+![Scan Work Flow](media/3000-2000-2.75196496.jpg)
+
+Can detect breast cancer from MRI and diagnosis its types 'Malignant' or 'Benign'
+
+---
+
+**Brain Tumor Segmentation From MRI Scan**
+
+![Scan Work Flow](media/1_brain_tumor_segmentation_with_opencv_python.jpg)
+
+Can locate the tumor location and color it
+
+---
+
+**Bone Fraction Segmentation From Xray Scan**
+
+![Scan Work Flow](media/ezgif.com-webp-to-jpg-converter_(1).jpg)
+
+Can locate the fraction in bones location and make a rectangles on them
+
+---
+
+**Chest Diseases Detection From Xray Scan**
+
+![Scan Work Flow](media/1e04_gefk_220113.jpg)
+
+Can detect chest diseases from x-rays and diagnosis if there is 'Covid 19' or 'Pneumonia'
+
+---
+
+**Body Diseases Detection From CT Scan**
+
+![Scan Work Flow](media/resize-17111791171404206655GettyImages1185128095600x337.jpg)
+
+Can detect body diseases from CT scans and diagnosis if there is 'Cyst', 'Stones' or 'Tumors'
+
+---
+
+**ECG - Heart Diseases Detection**
+
+![Scan Work Flow](media/Infinx-Blog-4-Ways-AI-Can-Help-Cardiology-Practices-Adapt-in-2020.jpg)
+
+Can detect heart diseases from Electrocardiography - ECG and diagnosis if there is 'Normal beat', 'Supraventricular premature beat', 'Premature ventricular contraction', 'Fusion of ventricular and normal beat', or 'Unclassifiable beat'
+
+---
+
+**Eyes Diseases Detection From OCT Scan**
+
+![Scan Work Flow](media/Screenshot_2024-07-16_154752.png)
+
+Can detect eyes diseases from OCT scans and diagnosis if there is 'CNV - Choroidal Neovascularization', 'DME - Diabetic Macular Edema' or 'Drusen'
+
+---
+
+**Food Calories Detection**
+
+![Scan Work Flow](media/GENERAL_GUIDELINES_FOR_EATING_HEALTHY_FOOD.png)
+
+Can detect food types from images and identify their approximation number of calories per gram. It can detect 101 types of food as 'Frensh fries', 'Pizza', 'Sushi', 'Pancakes', 'Chocolate cake', ...
+
+---
 
 
 ## Results
