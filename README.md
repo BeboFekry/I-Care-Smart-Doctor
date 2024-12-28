@@ -44,11 +44,11 @@ The AI module is designed in different parts. There are a Natural Language Proce
 
 **AI Model Table**
 Contains Input, Output, Functionality, Training and Testing Accuracy, and Recall information
-![Logo Design](media/models table.jpg)
+![Models Table](media/models_table.jpg)
 
 **AI Scan Models Work Flow**
 Sequence for the Image Scan Computer Vision Models
-![Logo Design](media/Final_ai.drawio.svg)
+![Scan Work Flow](media/Final_ai.drawio.svg)
 
 **AI Scan Models Work Flow**
 Sequence for the Image Scan Computer Vision Models
