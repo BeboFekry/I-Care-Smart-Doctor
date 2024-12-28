@@ -207,13 +207,13 @@ CT Model Training History
 
 ---
 
+
+
 **Some Models Heatmap Visualization**
 
 Breast Cancer Evaluation
 
 ![accuracy](media/breast_cancer_evaluation.png)
-
-
 
 CT Scan Heatmap
 
@@ -230,5 +230,56 @@ Chatbot Heatmap
 ---
 
 
+
 ## 4. References
-datasets
+
+xray body type dataset:
+https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion
+
+ECG dataset:
+https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+
+COVID19+PNEUMONIA+NORMAL Chest X-Ray Image Dataset:
+https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chest-xray-images
+
+bone fracture detection using x-rays dataset:
+https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays
+
+Chest X-ray - 17 Diseases dataset:
+https://www.kaggle.com/datasets/trainingdatapro/chest-xray-17-diseases?select=xray_chest.csv
+
+Brain Tumor Classification (MRI) dataset:
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
+Brain tumors 256x256 dataset:
+https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256
+
+Bone Break Classification Image Dataset:
+https://www.kaggle.com/datasets/pkdarabi/bone-break-classification-image-dataset
+
+Breast Cancer Diagnosis dataset:
+https://www.kaggle.com/datasets/faysalmiah1721758/breast-cancer-diagnosis
+
+RSNA Breast Cancer Detection - 256x256 pngs dataset:
+https://www.kaggle.com/datasets/theoviel/rsna-breast-cancer-256-pngs?select=10042_495770405.png
+
+Breast Cancer Patients MRI's dataset:
+https://www.kaggle.com/datasets/uzairkhan45/breast-cancer-patients-mris
+
+Bone Fracture Atlas
+https://figshare.com/articles/dataset/The_dataset/22363012
+
+MRI image Brest cancer dataset:
+https://www.kaggle.com/datasets/raselislambabu/mri-image-brest-cancer
+
+bone-break-classifier-dataset:
+https://www.kaggle.com/datasets/amohankumar/bone-break-classifier-dataset
+
+Retinal OCT Images (optical coherence tomography) dataset:
+https://www.kaggle.com/datasets/paultimothymooney/kermany2018
+
+CT KIDNEY DATASET: Normal-Cyst-Tumor and Stone dataset:
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+
+---
+
