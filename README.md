@@ -133,7 +133,7 @@ Can locate the fraction in bones location and make a rectangles on them
 
 [//]: # "![xray scan](media/1e04_gefk_220113.jpg)"
 <div align="center">
-  <img src="media/1e04_gefk_220113.jpg" alt="xray scan" width="1026" height="920">
+  <img src="media/1e04_gefk_220113.jpg" alt="xray scan" width="526" height="464">
 </div>
 
 Can detect chest diseases from x-rays and diagnosis if there is 'Covid 19' or 'Pneumonia'
