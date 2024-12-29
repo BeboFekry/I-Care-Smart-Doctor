@@ -52,7 +52,7 @@ Sequence for the Image Scan Computer Vision Models
 
 ---
 
-**ChatBot Diseases Detection**
+### **ChatBot Diseases Detection**
 
 [//]: # "![Scan Work Flow](media/i_care_logo.png)"
 <div align="center">
@@ -71,7 +71,7 @@ There is option speech to the chatbot using voice messages as i have add a Speec
 
 ---
 
-**Object Recognition From Iamges**
+### **Object Recognition From Iamges**
 
 ![Scan Work Flow](media/7-Best-Image-Recognition-APIs-e1587080882739.jpg)
 
@@ -85,7 +85,7 @@ Identify the medical imaging scan, medical test report and food from images
 
 ---
 
-**Medical Imaging Scan Type Detection**
+### **Medical Imaging Scan Type Detection**
 
 ![Scan Work Flow](media/158096096_m.jpeg)
 
@@ -95,7 +95,7 @@ Identifying the medical imaging scan type of 4 main types which are 'Electromagn
 
 ---
 
-**Anatomical Recognition From Xray Scan**
+### **Anatomical Recognition From Xray Scan**
 
 ![Scan Work Flow](media/various-x-ray-images-of-human-body-parts-vector.jpg)
 
@@ -105,7 +105,7 @@ Applying anatomical recognition on all imaging types to identify the body parts
 
 ---
 
-**Brain Tumor Detection From MRI Scan**
+### **Brain Tumor Detection From MRI Scan**
 
 ![Scan Work Flow](media/brain.jpg)
 
@@ -115,7 +115,7 @@ Can to detect brain tumor from MRI and diagnosis their types as 'Glioma_tumor', 
 
 ---
 
-**Bone Fracture Detection From Xray Scan**
+### **Bone Fracture Detection From Xray Scan**
 
 ![Scan Work Flow](media/Fractures.jpeg)
 
@@ -125,7 +125,7 @@ Can to detect bones fraction from x-rays and diagnosis their 10 types as 'Avulsi
 
 ---
 
-**Breast Cancer Detection From MRI Scan**
+### **Breast Cancer Detection From MRI Scan**
 
 ![Scan Work Flow](media/3000-2000-2.75196496.jpg)
 
@@ -135,7 +135,7 @@ Can detect breast cancer from MRI and diagnosis its types 'Malignant' or 'Benign
 
 ---
 
-**Brain Tumor Segmentation From MRI Scan**
+### **Brain Tumor Segmentation From MRI Scan**
 
 ![Scan Work Flow](media/1_brain_tumor_segmentation_with_opencv_python.jpg)
 
@@ -145,7 +145,7 @@ Can locate the tumor location and color it
 
 ---
 
-**Bone Fraction Segmentation From Xray Scan**
+### **Bone Fraction Segmentation From Xray Scan**
 
 [//]: # "[Scan Work Flow](media/ezgif.com-webp-to-jpg-converter_(1).jpg)"
 <div align="center">
@@ -158,7 +158,7 @@ Can locate the fraction in bones location and make a rectangles on them
 
 ---
 
-**Chest Diseases Detection From Xray Scan**
+### **Chest Diseases Detection From Xray Scan**
 
 [//]: # "![xray scan](media/1e04_gefk_220113.jpg)"
 <div align="center">
@@ -171,7 +171,7 @@ Can detect chest diseases from x-rays and diagnosis if there is 'Covid 19' or 'P
 
 ---
 
-**Body Diseases Detection From CT Scan**
+### **Body Diseases Detection From CT Scan**
 
 ![Scan Work Flow](media/resize-17111791171404206655GettyImages1185128095600x337.jpg)
 
@@ -181,7 +181,7 @@ Can detect body diseases from CT scans and diagnosis if there is 'Cyst', 'Stones
 
 ---
 
-**Complete Blood Count Test (CBC) Medical Test**
+### **Complete Blood Count Test (CBC) Medical Test**
 
 [//]: # "![CBC Test](media/Complete-Blood-Count.jpg)"
 <div align="center">
@@ -194,7 +194,7 @@ Reading CBC Test images data and gives information about it
 
 ---
 
-**ECG - Heart Diseases Detection**
+### **ECG - Heart Diseases Detection**
 
 ![Scan Work Flow](media/Infinx-Blog-4-Ways-AI-Can-Help-Cardiology-Practices-Adapt-in-2020.jpg)
 
@@ -207,7 +207,7 @@ Models comparison table according to time and accuracy
 
 ---
 
-**Eyes Diseases Detection From OCT Scan**
+### **Eyes Diseases Detection From OCT Scan**
 
 ![Scan Work Flow](media/Screenshot_2024-07-16_154752.png)
 
@@ -217,7 +217,7 @@ Can detect eyes diseases from OCT scans and diagnosis if there is 'CNV - Choroid
 
 ---
 
-**Food Calories Detection**
+### **Food Calories Detection**
 
 ![Scan Work Flow](media/GENERAL_GUIDELINES_FOR_EATING_HEALTHY_FOOD.png)
 
