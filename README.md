@@ -7,7 +7,10 @@ Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
 ## 1. OverView
 
 ### Test Run Video
-video here
+
+<div align="center">
+  <iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/_nqm8FuEdLA?si=XpXt2ICMjX6UCdzZ)" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
