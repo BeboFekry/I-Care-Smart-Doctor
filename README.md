@@ -1,8 +1,7 @@
 # **I Care - Smart Doctor**
 Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
-<div align="center">
-  ![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
-</div>
+
+![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
 (Graduation Project)
 
 ## 1. OverView
@@ -121,7 +120,10 @@ Can locate the tumor location and color it
 
 **Bone Fraction Segmentation From Xray Scan**
 
-![Scan Work Flow](media/ezgif.com-webp-to-jpg-converter_(1).jpg)
+[//]: # "[Scan Work Flow](media/ezgif.com-webp-to-jpg-converter_(1).jpg)"
+<div align="center">
+  <img src="media/ezgif.com-webp-to-jpg-converter_(1).jpg" alt="Scan Work Flow" width="800" height="1500" cent>
+</div>
 
 Can locate the fraction in bones location and make a rectangles on them
 
