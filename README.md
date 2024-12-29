@@ -12,8 +12,6 @@ Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
   <iframe width="560" height="315" src="https://youtu.be/_nqm8FuEdLA?si=cx1ZgrwDEhigb8WB" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://youtu.be/_nqm8FuEdLA?si=BpkHpTcL04HJhXqy))](https://www.youtube.com/watch?v=VIDEO_ID)
-
 ---
 
 As a team leader i have distributed the tasks on the team members, i have decided to work with Agile methodology so i was making a meeting each one or two weeks with the team members to presenting the work done
