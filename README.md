@@ -122,7 +122,7 @@ Can locate the tumor location and color it
 
 [//]: # "[Scan Work Flow](media/ezgif.com-webp-to-jpg-converter_(1).jpg)"
 <div align="center">
-  <img src="media/ezgif.com-webp-to-jpg-converter_(1).jpg" alt="Scan Work Flow" width="800" height="1500" cent>
+  <img src="media/ezgif.com-webp-to-jpg-converter_(1).jpg" alt="Scan Work Flow" width="780" height="570" cent>
 </div>
 
 Can locate the fraction in bones location and make a rectangles on them
