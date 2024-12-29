@@ -54,7 +54,7 @@ Sequence for the Image Scan Computer Vision Models
 
 **ChatBot Diseases Detection**
 
-![Scan Work Flow](media/i_care_logo.png)
+[//]: # "![Scan Work Flow](media/i_care_logo.png)"
 <img src="media/i_care_logo.png" alt="Image Description" width="400" height="400">
 
 AI based smart chatbot called "Caroline" talking to the patient and taking its disease symptoms by text or voice messages, then diagnosing the disease and recommend making some tests or medical imaging scans to do as x-ray, MRI, Complete Blood Count CBC, ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
