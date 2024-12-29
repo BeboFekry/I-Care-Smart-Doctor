@@ -1,7 +1,8 @@
 # **I Care - Smart Doctor**
 Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
-
-![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
+<div align="center">
+  ![Logo Design](media/Picsart_23-10-20_06-03-49-430.png)
+</div>
 (Graduation Project)
 
 ## 1. OverView
