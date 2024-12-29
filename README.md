@@ -150,7 +150,10 @@ Can detect body diseases from CT scans and diagnosis if there is 'Cyst', 'Stones
 
 **Complete Blood Count Test (CBC) Medical Test**
 
-![Scan Work Flow](media/Complete-Blood-Count.jpg)
+[//]: # "![CBC Test](media/Complete-Blood-Count.jpg)"
+<div align="center">
+  <img src="media/Complete-Blood-Count.jpg" alt="CBC Test" width="562" height="572">
+</div>
 
 Using Optical Character Recognition OCR technique to get the data from the CBC image then pass it to a Large Language Model LLM to evaluate overall health and diagnose conditions like anemia, infections, clotting disorders, and blood cancers by analyzing red and white blood cells, hemoglobin, hematocrit, and platelets.
 
