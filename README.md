@@ -56,7 +56,7 @@ Sequence for the Image Scan Computer Vision Models
 
 [//]: # "![Scan Work Flow](media/i_care_logo.png)"
 <div align="center">
-  <img src="media/i_care_logo.png" alt="Chatbot Logo" width="400" height="400" cent>
+  <img src="media/i_care_logo.png" alt="Chatbot Logo" width="400" height="400">
 </div>
 AI based smart chatbot called "Caroline" talking to the patient and taking its disease symptoms by text or voice messages, then diagnosing the disease and recommend making some tests or medical imaging scans to do as x-ray, MRI, Complete Blood Count CBC, ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
 
@@ -122,7 +122,7 @@ Can locate the tumor location and color it
 
 [//]: # "[Scan Work Flow](media/ezgif.com-webp-to-jpg-converter_(1).jpg)"
 <div align="center">
-  <img src="media/ezgif.com-webp-to-jpg-converter_(1).jpg" alt="Scan Work Flow" width="780" height="570" cent>
+  <img src="media/ezgif.com-webp-to-jpg-converter_(1).jpg" alt="Scan Work Flow" width="680" height="470">
 </div>
 
 Can locate the fraction in bones location and make a rectangles on them
