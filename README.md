@@ -58,9 +58,16 @@ Sequence for the Image Scan Computer Vision Models
 <div align="center">
   <img src="media/i_care_logo.png" alt="Chatbot Logo" width="400" height="400">
 </div>
+
 AI based smart chatbot called "Caroline" talking to the patient and taking its disease symptoms by text or voice messages, then diagnosing the disease and recommend making some tests or medical imaging scans to do as x-ray, MRI, Complete Blood Count CBC, ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
 
 **Methodology:** Collecting the data from several datasets contains the diseases symptoms and the disease diagnosis as a Json format contains Tags, Patterns, and Response. The tags contains the class name as "greeting", "diseases name as Skin Cancer,  Influenza, ..." making class for each disease, patterns contains examples of the user expected questions, and the response contains the many options for the output. after making the dataset, applying preprocessing techniques (Tokenization and Stemming, ...). i have developed a deep learnoing LSTM model for the Chatbot predictions taking the preprocessed patient symptoms message as input and predict the class from the 44 classes then chooses randomly from the saved responses.
+
+There is option speech to the chatbot using voice messages as i have add a Speech Recognition model to detect voices and convert it into text then pass to the chatbot model.
+
+**Chatbot LSTM Architecture**
+
+![LSTM](media/LSTM_Architicture.jpg)
 
 ---
 
@@ -71,6 +78,10 @@ AI based smart chatbot called "Caroline" talking to the patient and taking its d
 Identify the medical imaging scan, medical test report and food from images
 
 **Methodology:** Collecting the data from several datasets for the four classes starting with making a folder contains four other folders each onr for each class (Medical Imaging Scan, Medical Test Report, Food, Other). i have collected many types of medical imagings as (xray on several body parts, MRI on brain and breast, many food images from Food 101 dataset collectingh 100 images from each food type, and using the dataset **"ImageNet"** for class "Other" collecting 10 images from each of its 1000 classes). finally worked normally to made a deep learning CNN model VGG16 architecture with 4 neurons in the output layers and activation function Softmax.
+
+**Models CNN Architecture**
+
+![CNN](media/CNN_Architecture.jpg)
 
 ---
 
@@ -130,7 +141,7 @@ Can detect breast cancer from MRI and diagnosis its types 'Malignant' or 'Benign
 
 Can locate the tumor location and color it
 
-**Methodology:** Developed U-net model segmentation
+**Methodology:** Developed U-net segmentation model to locate the tumor on the brain MRI.
 
 ---
 
@@ -143,6 +154,8 @@ Can locate the tumor location and color it
 
 Can locate the fraction in bones location and make a rectangles on them
 
+**Methodology:** Developed Yolo segmentation model to locate the Fraction on the bone X-ray.
+
 ---
 
 **Chest Diseases Detection From Xray Scan**
@@ -154,6 +167,8 @@ Can locate the fraction in bones location and make a rectangles on them
 
 Can detect chest diseases from x-rays and diagnosis if there is 'Covid 19' or 'Pneumonia'
 
+**Methodology:** Developed a multi-class classification CNN model VGG16 architecture for Chest X-ray images identifying 3 classes (Covid-19, Pneumonia, or Normal) with 3 neurons in the output layers and activation function Softmax.
+
 ---
 
 **Body Diseases Detection From CT Scan**
@@ -161,6 +176,8 @@ Can detect chest diseases from x-rays and diagnosis if there is 'Covid 19' or 'P
 ![Scan Work Flow](media/resize-17111791171404206655GettyImages1185128095600x337.jpg)
 
 Can detect body diseases from CT scans and diagnosis if there is 'Cyst', 'Stones' or 'Tumors'
+
+**Methodology:** Developed a multi-class classification CNN model VGG16 architecture for CT Scans identifying 4 classes (Cyst, Stone, Tumor, or Normal) with 4 neurons in the output layers and activation function Softmax.
 
 ---
 
@@ -171,7 +188,9 @@ Can detect body diseases from CT scans and diagnosis if there is 'Cyst', 'Stones
   <img src="media/Complete-Blood-Count.jpg" alt="CBC Test" width="562" height="572">
 </div>
 
-Using Optical Character Recognition OCR technique to get the data from the CBC image then pass it to a Large Language Model LLM to evaluate overall health and diagnose conditions like anemia, infections, clotting disorders, and blood cancers by analyzing red and white blood cells, hemoglobin, hematocrit, and platelets.
+Reading CBC Test images data and gives information about it
+
+**Methodology:** Using Optical Character Recognition OCR model to get the data from the CBC Test images then pass it to Google Gemini Large Language Model LLM using LangChian to evaluate overall health and diagnose conditions like anemia, infections, clotting disorders, and blood cancers by analyzing red and white blood cells, hemoglobin, hematocrit, and platelets.
 
 ---
 
@@ -181,6 +200,11 @@ Using Optical Character Recognition OCR technique to get the data from the CBC i
 
 Can detect heart diseases from Electrocardiography - ECG and diagnosis if there is 'Normal beat', 'Supraventricular premature beat', 'Premature ventricular contraction', 'Fusion of ventricular and normal beat', or 'Unclassifiable beat'
 
+**Methodology:** Developed a Machine Learning classification model to handling the structured ECG data from csv files. firstly i have try four different models to compaire between each other Logistic Regression, Support Vector Machine SVM, Decision Trees, and Random Forest Models. the random forest gives the highest accuracy in a suitable time.
+
+Models comparison table according to time and accuracy
+![ECG Compair Models](media/ECG_Models_Comparison.png)
+
 ---
 
 **Eyes Diseases Detection From OCT Scan**
@@ -188,6 +212,8 @@ Can detect heart diseases from Electrocardiography - ECG and diagnosis if there 
 ![Scan Work Flow](media/Screenshot_2024-07-16_154752.png)
 
 Can detect eyes diseases from OCT scans and diagnosis if there is 'CNV - Choroidal Neovascularization', 'DME - Diabetic Macular Edema' or 'Drusen'
+
+**Methodology:** Developed a multi-class classification CNN model VGG16 architecture for OCT Scans identifying 4 classes (CNV, DME, Drusen, or Normal) with 4 neurons in the output layers and activation function Softmax.
 
 ---
 
@@ -197,8 +223,9 @@ Can detect eyes diseases from OCT scans and diagnosis if there is 'CNV - Choroid
 
 Can detect food types from images and identify their approximation number of calories per gram. It can detect 101 types of food as 'Frensh fries', 'Pizza', 'Sushi', 'Pancakes', 'Chocolate cake', ...
 
----
+**Methodology:** Developed a multi-class classification CNN model, as the VGG16 architecture is not suitable for large number of classes so i have used Inception Net v3 architecture for Food Type Detection identifying 101 classes for food types with 101 neurons in the output layers and activation function Softmax. After detecting the food type choosing the average number of calories per gram from the stored data before.
 
+---
 
 ## 3. Results
 
