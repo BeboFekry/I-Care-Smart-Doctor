@@ -60,6 +60,8 @@ Sequence for the Image Scan Computer Vision Models
 </div>
 AI based smart chatbot called "Caroline" talking to the patient and taking its disease symptoms by text or voice messages, then diagnosing the disease and recommend making some tests or medical imaging scans to do as x-ray, MRI, Complete Blood Count CBC, ... in addition, given information about the predicted disease as an overview, symptoms, and treatments.
 
+**Methodology:** Collecting the data from several datasets contains the diseases symptoms and the disease diagnosis as a Json format contains Tags, Patterns, and Response. The tags contains the class name as "greeting", "diseases name as Skin Cancer,  Influenza, ..." making class for each disease, patterns contains examples of the user expected questions, and the response contains the many options for the output. after making the dataset, applying preprocessing techniques (Tokenization and Stemming, ...). i have developed a deep learnoing LSTM model for the Chatbot predictions taking the preprocessed patient symptoms message as input and predict the class from the 44 classes then chooses randomly from the saved responses.
+
 ---
 
 **Object Recognition From Iamges**
@@ -67,6 +69,8 @@ AI based smart chatbot called "Caroline" talking to the patient and taking its d
 ![Scan Work Flow](media/7-Best-Image-Recognition-APIs-e1587080882739.jpg)
 
 Identify the medical imaging scan, medical test report and food from images
+
+**Methodology:** Collecting the data from several datasets for the four classes starting with making a folder contains four other folders each onr for each class (Medical Imaging Scan, Medical Test Report, Food, Other). i have collected many types of medical imagings as (xray on several body parts, MRI on brain and breast, many food images from Food 101 dataset collectingh 100 images from each food type, and using the dataset **"ImageNet"** for class "Other" collecting 10 images from each of its 1000 classes). finally worked normally to made a deep learning CNN model VGG16 architecture with 4 neurons in the output layers and activation function Softmax.
 
 ---
 
@@ -76,6 +80,8 @@ Identify the medical imaging scan, medical test report and food from images
 
 Identifying the medical imaging scan type of 4 main types which are 'Electromagnetic Variations - Xray', 'Magnetic Resonance Imaging - MRI', 'Computerized Tomography - CT', or 'Optical Coherence Tomography - OCT'
 
+**Methodology:** Developed a multi-class classification CNN model VGG16 architecture for identifying 4 classes (xray, MRI, CT, or OCT Scan) with 4 neurons in the output layers and activation function Softmax.
+
 ---
 
 **Anatomical Recognition From Xray Scan**
@@ -83,6 +89,8 @@ Identifying the medical imaging scan type of 4 main types which are 'Electromagn
 ![Scan Work Flow](media/various-x-ray-images-of-human-body-parts-vector.jpg)
 
 Applying anatomical recognition on all imaging types to identify the body parts
+
+**Methodology:** Developed two CNN model VGG16 architecture one for multi-class classification for the X-ray body parts with classes (Chest, Feet, Hand, Neck, Other, and Skull) with 6 neurons in the output layers and activation function Softmax. And the other one for binary-class classification for the MRI body parts with classes (Brain and Breast) with 1 neuron in the output layers and activation function Sigmoid.
 
 ---
 
@@ -92,6 +100,8 @@ Applying anatomical recognition on all imaging types to identify the body parts
 
 Can to detect brain tumor from MRI and diagnosis their types as 'Glioma_tumor', 'Meningioma_tumor', and 'Pituitary_tumor'
 
+**Methodology:** Developed two models the first one is a binary-classification CNN model VGG16 architecture for the MRI Brain Tumor Evaluation with classes (Tumored and Not Tumored) with 1 neuron in the output layers and activation function Sigmoid. and the second one for multi-class classification CNN model VGG16 architecture for the MRI Brain Tumor Type Detection with 3 classes with 3 neurons in the output layers and activation function Softmax.
+
 ---
 
 **Bone Fracture Detection From Xray Scan**
@@ -99,6 +109,8 @@ Can to detect brain tumor from MRI and diagnosis their types as 'Glioma_tumor', 
 ![Scan Work Flow](media/Fractures.jpeg)
 
 Can to detect bones fraction from x-rays and diagnosis their 10 types as 'Avulsion fracture', 'Comminuted fracture', 'Compression-Crush fracture', 'Fracture Dislocation', 'Greenstick fracture', 'Hairline Fracture', 'Impacted fracture', 'Intra-articular fracture', 'Longitudinal fracture', 'Oblique fracture', 'Pathological fracture', and 'Spiral Fracture'
+
+**Methodology:** Developed two models the first one is a binary-classification CNN model VGG16 architecture for the X-ray Bone Fraction Evaluation with classes (Fractiored and Not Fractured) with 1 neuron in the output layers and activation function Sigmoid. and the second one for multi-class classification CNN model VGG16 architecture for the X-ray Bone Fraction Type Detection with 10 classes with 10 neurons in the output layers and activation function Softmax.
 
 ---
 
@@ -108,6 +120,8 @@ Can to detect bones fraction from x-rays and diagnosis their 10 types as 'Avulsi
 
 Can detect breast cancer from MRI and diagnosis its types 'Malignant' or 'Benign'
 
+**Methodology:** Developed two models the first one is a binary-classification CNN model VGG16 architecture for the MRI Breast Cancer Evaluation with classes (Cancered and Healthy) with 1 neuron in the output layers and activation function Sigmoid. and the second one for multi-class classification CNN model VGG16 architecture for the MRI Breast Cancer Type Detection with 2 classes with 1 neurons in the output layers and activation function Sigmoid.
+
 ---
 
 **Brain Tumor Segmentation From MRI Scan**
@@ -115,6 +129,8 @@ Can detect breast cancer from MRI and diagnosis its types 'Malignant' or 'Benign
 ![Scan Work Flow](media/1_brain_tumor_segmentation_with_opencv_python.jpg)
 
 Can locate the tumor location and color it
+
+**Methodology:** Developed U-net model segmentation
 
 ---
 
@@ -243,9 +259,16 @@ Chatbot Heatmap
 
 ---
 
+## 4. Conclusion
 
+The Smart Medical and Healthcare System stands as a transformative innovation in the healthcare sector, empowering patients to access intelligent medical diagnoses and scan medical imaging, medical tests, ECG Scan or their food calories by AI, make a personality analysis test, and manage their healthcare needs seamlessly. 
 
-## 4. References
+The mobile and web applications leverage artificial intelligence models and user-friendly interfaces to deliver an exceptional user experience.
+In conclusion, the smart medical and healthcare application leverages cutting-edge AI technology to deliver a seamless and exceptional user experience for both patients and healthcare providers. This project represents a significant step forward in making healthcare more accessible, personalized, and efficient, ultimately improving patient outcomes and healthcare service delivery.
+
+---
+
+## 5. References
 
 xray body type dataset:
 https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion
