@@ -12,9 +12,7 @@ Comprehensive Medical System - Easy Healthcare for Anyone Anytime!
   <iframe width="560" height="315" src="https://youtu.be/_nqm8FuEdLA?si=cx1ZgrwDEhigb8WB" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div align="center">
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_nqm8FuEdLA/0.jpg)](https://www.youtube.com/watch?v=_nqm8FuEdLA)
-</div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_nqm8FuEdLA/0.jpg)](https://www.youtube.com/watch?v=_nqm8FuEdLA)
 
 ---
 
