@@ -299,7 +299,7 @@ In conclusion, the smart medical and healthcare application leverages cutting-ed
 ## Publication
 [Publication Link](https://app.readytensor.ai/publications/i_care_-_smart_doctor_-_comprehensive_medical_system_sZgWGLbCUMiS)
 
-(Publication achieved winner of **Best Distinguished Applied Solution Showcase** at the **Computer Vision Projects Expo 2024** Competetion by **Ready Tensor**)
+(🏆 Publication achieved winner of **Best Distinguished Applied Solution Showcase** at the **Computer Vision Projects Expo 2024** Competetion by **Ready Tensor**)
 
 ---
 
