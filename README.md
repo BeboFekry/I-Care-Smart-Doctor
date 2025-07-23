@@ -296,6 +296,11 @@ In conclusion, the smart medical and healthcare application leverages cutting-ed
 
 ---
 
+## Publication
+[Publication Link](https://app.readytensor.ai/publications/i_care_-_smart_doctor_-_comprehensive_medical_system_sZgWGLbCUMiS)
+
+---
+
 ## 5. References
 
 xray body type dataset:
